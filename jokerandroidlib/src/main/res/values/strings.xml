@@ -1,0 +1,4 @@
+<resources>
+    <string name="activity_title">Joke Display</string>
+    <string name="joke_appear_here">Joke appear here</string>
+</resources>

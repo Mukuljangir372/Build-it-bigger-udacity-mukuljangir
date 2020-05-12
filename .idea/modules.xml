@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Build It Bigger Udacity.iml" filepath="$PROJECT_DIR$/Build It Bigger Udacity.iml" group="Build It Bigger Udacity" />
+      <module fileurl="file://$PROJECT_DIR$/JokerJavaLib/JokerJavaLib.iml" filepath="$PROJECT_DIR$/JokerJavaLib/JokerJavaLib.iml" group="Build It Bigger Udacity/JokerJavaLib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Build It Bigger Udacity/app" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" group="Build It Bigger Udacity/backend" />
+      <module fileurl="file://$PROJECT_DIR$/jokerandroidlib/jokerandroidlib.iml" filepath="$PROJECT_DIR$/jokerandroidlib/jokerandroidlib.iml" group="Build It Bigger Udacity/jokerandroidlib" />
+    </modules>
+  </component>
+</project>
